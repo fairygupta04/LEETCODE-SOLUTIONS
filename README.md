@@ -7,8 +7,9 @@ Each file = one problem
 
 Each solution file includes:
 - ✅ Problem name
-- 💡 Approach used 
+- 🔑 Topic 
 - 🔗 Link to the original LeetCode problem
+- 💡 Approach used
 - 📌 Efficient C++ code
 
 📈 Progress
